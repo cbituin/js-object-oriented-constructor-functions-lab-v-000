@@ -13,4 +13,4 @@ const Driver = (name, age, experience) => {
 const PickupLocation = (address, city) => {
   this.address = address;
   this.city = city;
-}
+};
